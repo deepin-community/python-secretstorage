@@ -1,0 +1,3 @@
+version=3
+options=pgpsigurlmangle=s/$/.asc/ \
+https://pypi.debian.net/SecretStorage/SecretStorage-(.*).tar.gz
